@@ -7,7 +7,8 @@ Môn học Lập trình cho thiết bị di động
 
 2. VŨ ĐÌNH THÀNH
 
-![VuDinhThanh](https://user-images.githubusercontent.com/65001663/94886292-e480fd00-049c-11eb-87b7-1f35db27aa63.gif)
+![VuDinhThanh](https://user-images.githubusercontent.com/71000712/96092092-96381900-0ef4-11eb-8df0-882d78ad12fe.gif)
+
 
 3. NGUYỄN VĂN DUY
 
